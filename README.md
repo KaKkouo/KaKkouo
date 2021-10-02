@@ -2,6 +2,7 @@
 - 👀 I’m a maintainer of the following pypi projects
   - sphinxcontrib.kana_text
     - https://pypi.org/project/sphinxcontrib.kana-text/
+    - https://github.com/KaKkouo/sphinxcontrib.kana_text
   - sphinxcontib.embedding
     - https://pypi.org/project/sphinxcontrib.embedding/
 - 🌱 I’m currently learning python with the pypi projects.
