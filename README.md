@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @KaKkouo
 - 👀 I’m a maintainer of the following pypi projects
-  - https://pypi.org/project/sphinxcontrib.kana-text/
-  - https://pypi.org/project/sphinxcontrib.embedding/
+  - sphinxcontrib.kana_text
+    - https://pypi.org/project/sphinxcontrib.kana-text/
+  - sphinxcontib.embedding
+    - https://pypi.org/project/sphinxcontrib.embedding/
 - 🌱 I’m currently learning python with the pypi projects.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
