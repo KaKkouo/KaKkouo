@@ -5,7 +5,7 @@
     - https://github.com/KaKkouo/sphinxcontrib.kana_text
   - sphinxcontib.embedding
     - https://pypi.org/project/sphinxcontrib.embedding/
-- 🌱 I’m currently learning python with the pypi projects.
+- 🌱 I’m currently learning python with my pypi projects.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
